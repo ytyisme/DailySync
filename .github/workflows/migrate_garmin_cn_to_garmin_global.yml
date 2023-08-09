@@ -26,4 +26,4 @@ jobs:
       - run: yarn migrate_garmin_cn_to_global
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Save Garmin Session
+          # commit_message: Save Garmin Session
