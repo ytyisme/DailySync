@@ -10,13 +10,13 @@ export const AESKEY_DEFAULT = 'LSKDAJALSD';
  * GARMIN ACCOUNT
  */
 // 佳明中国区账号及密码
-export const GARMIN_USERNAME_DEFAULT = '';
-export const GARMIN_PASSWORD_DEFAULT = '';
+export const GARMIN_USERNAME_DEFAULT = '386334180@qq.com';
+export const GARMIN_PASSWORD_DEFAULT = 'Ww386334180';
 // 佳明国际区区账号及密码
-export const GARMIN_GLOBAL_USERNAME_DEFAULT = '';
-export const GARMIN_GLOBAL_PASSWORD_DEFAULT = '';
+export const GARMIN_GLOBAL_USERNAME_DEFAULT = '386334180@qq.com';
+export const GARMIN_GLOBAL_PASSWORD_DEFAULT = 'Ww386334180';
 // 佳明迁移数量配置
-export const GARMIN_MIGRATE_NUM_DEFAULT = '';
+export const GARMIN_MIGRATE_NUM_DEFAULT = '100';
 export const GARMIN_MIGRATE_START_DEFAULT = '';
 // 佳明每次同步时检查的最多的数量
 export const GARMIN_SYNC_NUM_DEFAULT = 10;
